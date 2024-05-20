@@ -3884,12 +3884,12 @@ input, select, textarea {
 			@media screen and (max-width: 980px) {
 
 				#main > .posts > * {
-					width: 50%;
+					width: 33%;
 				}
 
 				#main > .posts > * {
-					padding: 2.5rem;
-					width: 50%;
+					padding: 1.5rem;
+					width: 33%;
 				}
 
 			}
